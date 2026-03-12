@@ -63,7 +63,7 @@ ir taip pat pridėti finansinės veiklos ataskaitą pagal produktų kategorijas.
 
   Išanalizuokite prekių judėjimą per visą laikotarpį ir apskaičiuokite dabartinę kiekvienos prekės sandėlio būseną.
 
-  Penkto etapo darbas čia: https://dbfiddle.uk/uAzcFjsK?hide=4611686018427388000
+  Penkto etapo darbas čia: https://dbfiddle.uk/P9sm6JOj?hide=9223372036854252000
 
 **6 etapas.** Papildomos duomenų dalies importavimas.
 
@@ -78,5 +78,5 @@ ir taip pat pridėti finansinės veiklos ataskaitą pagal produktų kategorijas.
   - Minimali, maksimali ir vidutinė cnt stulpelio vertės,
   - Minimali, maksimali ir vidutinė stulpelio price vertės.
 
-  Šešto etapo darbas čia: https://dbfiddle.uk/cE0_9D4-?hide=8388608
+  Šešto etapo darbas čia: https://dbfiddle.uk/rdrp5Axu?hide=8388608
   
